@@ -1,0 +1,86 @@
+body {
+    font-family:"koulen", serif;
+}
+.heading{
+    background-image:url("https://wallpapersmug.com/large/2197f3/programming-code-colorful.jpg");
+    background-size:5000px;
+    background-repeat:no-repeat;
+    margin-top:-10px;
+    margin-bottom:-43px;
+    margin-right:-10px;
+    margin-left:-10px;
+    
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    outline: none;
+}
+.greeting{
+    color:white;
+    margin-top:0px;
+    font-size:130px;
+    text-align:center;
+    filter:grayscale(100%);
+    text-decoration:underline;
+}
+.greeting-subtitle{
+    color:white;
+    margin-top:-140px;
+    font-size:50px;
+    text-align:center;
+}
+.two-greeting{
+    color:black;
+    margin-top:-10px;
+    font-size:50px;
+    text-align:center;
+}
+.two-greeting-subtitle{
+    color:black;
+    margin-top:-50px;
+    font-size:20px;
+    text-align:center;
+}
+.about{
+    margin-top:-20px;
+    font-size:40px;
+    color:black;
+}
+.two-greeting{
+    color:black;
+    font-size:20px;
+    margin-top:20px;
+}
+.about{
+    text-decoration:underline;
+    margin-top:20px;
+    margin-bottom:-25px;
+    text-align:center;
+}
+.facts{
+    text-align:center;
+    text-decoration:underline;
+    margin-bottom:15px;
+}
+.favs{
+    text-align:center;
+    text-decoration:underline;
+    margin-bottom:15px;
+}
+.best-projects{
+    text-align:center;
+    text-decoration:underline;
+    margin-bottom:15px;
+}
+.conc{
+    text-align:center;
+    text-decoration:underline;
+    margin-bottom:15px;
+    font-size:90px;
+}

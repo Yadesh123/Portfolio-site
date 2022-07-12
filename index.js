@@ -1,0 +1,1 @@
+console.log("Hi, it seems like you've hit the inspect element. You should play some jokes on your friend by changing this website! I don't mind :)")
